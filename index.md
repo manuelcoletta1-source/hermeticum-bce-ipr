@@ -127,3 +127,32 @@
       Se il link email non funziona sul telefono, copia l’indirizzo: <b>manuelcoletta1@gmail.com</b>
     </p>
   </section>
+  <section class="card" id="faq">
+    <h2>FAQ (Cliente)</h2>
+    <ul>
+      <li>
+        <b>IPR è un account?</b><br/>
+        No. IPR è una radice di identificazione e tracciabilità. Non è un profilo social né un account tradizionale.
+      </li>
+      <li>
+        <b>Devo caricare documenti?</b><br/>
+        No sulla vetrina pubblica. I riferimenti (CIE/SPID/CF) sono usati solo come metadati di collegamento.
+      </li>
+      <li>
+        <b>Cosa ottengo dopo l’attivazione?</b><br/>
+        Accesso ai servizi HERMETICUM B.C.E. e possibilità di generare/verificare prove (UNEBDO) e decisioni (OPC).
+      </li>
+      <li>
+        <b>Posso verificare tutto offline?</b><br/>
+        Sì. Hash, firme e policy sono verificabili senza dipendenze esterne.
+      </li>
+    </ul>
+  </section>
+
+  <section class="card" id="privacy">
+    <h2>Nota Privacy</h2>
+    <p class="muted">
+      Questo sito non raccoglie dati personali. Le richieste di attivazione IPR avvengono via email
+      e sono gestite manualmente. Nessun dato sensibile è pubblicato sulla vetrina.
+    </p>
+  </section>
