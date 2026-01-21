@@ -1,31 +1,81 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="it">
 <head>
-  <meta charset="UTF-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>IPR Gateway — Hermeticum B.C.E.</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>HERMETICUM B.C.E. — IPR Gateway</title>
   <style>
-    body{margin:0;font-family:Arial,Helvetica,sans-serif;background:#0b0b0b;color:#f2f2f2}
-    main{max-width:820px;margin:0 auto;padding:80px 20px;text-align:center}
-    h1{font-size:2.2em}
-    p{color:#ccc;line-height:1.6}
-    .box{margin-top:40px;padding:20px;border:1px solid #333;border-radius:12px}
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;max-width:980px;margin:40px auto;padding:0 16px;line-height:1.5}
+    header{border-bottom:1px solid #ddd;padding-bottom:16px;margin-bottom:22px}
+    nav a{margin-right:12px}
+    .card{border:1px solid #ddd;border-radius:14px;padding:16px;margin:14px 0}
+    code{background:#f5f5f5;padding:2px 6px;border-radius:6px}
+    .muted{color:#666}
+    .pill{display:inline-block;border:1px solid #999;border-radius:999px;padding:2px 10px;font-size:12px;margin-left:8px}
+    ul{padding-left:18px}
   </style>
 </head>
 <body>
-<main>
-  <h1>Decidi, e paghi la traccia per rimanere nel tempo.</h1>
-  <p>
-    IPR-Personale è l’identità operativa
-    che ti permette di entrare nell’ecosistema Hermeticum
-    e attivare la tua AI Joker dedicata.
-  </p>
+  <header>
+    <h1>HERMETICUM B.C.E. — IPR Gateway <span class="pill">Client</span></h1>
+    <p class="muted">
+      L’IPR è la chiave di accesso: identifica, traccia e abilita la navigazione nell’ecosistema
+      HERMETICUM B.C.E. (Services / Technology / Verify).
+    </p>
+    <nav>
+      <a href="https://manuelcoletta1-source.github.io/hermeticum-bce/">Portal</a>
+      <a href="https://manuelcoletta1-source.github.io/hermeticum-bce-services/">Services</a>
+      <a href="https://manuelcoletta1-source.github.io/Hermeticum-B.C.E.-Technology/">Technology</a>
+      <a href="#start">Start</a>
+      <a href="#verify">Verify</a>
+    </nav>
+  </header>
 
-  <div class="box">
-    <p><strong>Ingresso:</strong> tramite IPR-Personale</p>
-    <p><strong>Prova:</strong> ancore crittografiche pubbliche</p>
-    <p><strong>Governance:</strong> GitJoker C2</p>
-  </div>
-</main>
+  <section class="card" id="start">
+    <h2>Start (Cliente)</h2>
+    <p>Per operare nell’ecosistema, segui questa sequenza:</p>
+    <ol>
+      <li>Apri il <b>Portale</b> e scegli il nodo (Services / Technology).</li>
+      <li>Verifica la tua identità IPR (pagina pubblica).</li>
+      <li>Accedi ai moduli: UNEBDO (proof) e OPC (policy).</li>
+    </ol>
+  </section>
+
+  <section class="card">
+    <h2>IPR — Identità & Collegabilità</h2>
+    <p class="muted">
+      IPR collega la persona ai metadati istituzionali (CIE / SPID / CF) come riferimenti, senza
+      pubblicare dati sensibili sulla vetrina.
+    </p>
+    <ul>
+      <li><b>Verifica pubblica (IPR-3):</b> <a href="https://manuelcoletta1-source.github.io/manuhell/">manuhell</a></li>
+      <li><b>UE IPR Registry:</b> <a href="https://manuelcoletta1-source.github.io/ue-ipr-registry/">ue-ipr-registry</a></li>
+    </ul>
+  </section>
+
+  <section class="card" id="verify">
+    <h2>Verify</h2>
+    <p>Verifica tecnica dei moduli (proof + policy):</p>
+    <ul>
+      <li><b>UNEBDO</b> (proof engine): <a href="https://manuelcoletta1-source.github.io/unebdo/">unebdo</a></li>
+      <li><b>OPC</b> (policy engine): <a href="https://manuelcoletta1-source.github.io/opc/">opc</a></li>
+    </ul>
+    <p class="muted">
+      Nota: la validità operativa è determinata da hash/firma (UNEBDO) e decisione fail-closed (OPC).
+    </p>
+  </section>
+
+  <section class="card">
+    <h2>Accesso rapido</h2>
+    <ul>
+      <li><a href="https://manuelcoletta1-source.github.io/hermeticum-bce/">HERMETICUM B.C.E. — Portal</a></li>
+      <li><a href="https://manuelcoletta1-source.github.io/hermeticum-bce-services/">Services (HUB)</a></li>
+      <li><a href="https://manuelcoletta1-source.github.io/Hermeticum-B.C.E.-Technology/">Technology Hub</a></li>
+    </ul>
+  </section>
+
+  <footer style="margin-top:26px;border-top:1px solid #ddd;padding-top:14px">
+    <small class="muted">HERMETICUM B.C.E. — IPR Gateway (client-ready)</small>
+  </footer>
 </body>
 </html>
