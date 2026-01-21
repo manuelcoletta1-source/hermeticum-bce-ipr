@@ -8,6 +8,7 @@
   "policy_ref": "OPC-STRONG-v1",
   "notes": "IPR attivato e pronto per verifica UNEBDO."
 }
+Get-FileHash registry\issued\IPR-ISSUED-20260121-0001.manifest.json -Algorithm SHA512
 {
   "ipr_id": "IPR-ISSUED-20260121-0001",
   "artifact": "registry/issued/IPR-ISSUED-20260121-0001.manifest.json",
