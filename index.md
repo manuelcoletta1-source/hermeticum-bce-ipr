@@ -233,3 +233,4 @@
       In caso di dubbi, contatta il supporto o verifica le istruzioni inviate via email.
     </p>
   </section>
+  <p><a href="./registry/">→ Registro IPR (public)</a></p>
