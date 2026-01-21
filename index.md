@@ -199,3 +199,17 @@
       Se non hai ancora attivato l’IPR, torna alla sezione <a href="#request">Richiedi attivazione IPR</a>.
     </p>
   </section>
+  <section class="card" id="access">
+    <h2>Accesso rapido (con IPR attivo)</h2>
+    <p>Se il tuo IPR è attivo, puoi entrare direttamente qui:</p>
+    <ul>
+      <li><a href="https://manuelcoletta1-source.github.io/hermeticum-bce-services/">Services (HUB)</a></li>
+      <li><a href="https://manuelcoletta1-source.github.io/Hermeticum-B.C.E.-Technology/">Technology Hub</a></li>
+      <li><a href="https://manuelcoletta1-source.github.io/unebdo/">UNEBDO (Proof Engine)</a></li>
+      <li><a href="https://manuelcoletta1-source.github.io/opc/">OPC (Policy Engine)</a></li>
+      <li><a href="https://manuelcoletta1-source.github.io/manuhell/">Verify pubblica (IPR-3)</a></li>
+    </ul>
+    <p class="muted">
+      Se non hai ancora attivato l’IPR, torna alla sezione <a href="#request">Richiedi attivazione IPR</a>.
+    </p>
+  </section>
