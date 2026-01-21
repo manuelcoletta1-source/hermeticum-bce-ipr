@@ -79,3 +79,27 @@
   </footer>
 </body>
 </html>
+<section class="card" id="requirements">
+    <h2>Cosa serve (cliente)</h2>
+    <ul>
+      <li><b>CIE</b> (Carta d’Identità Elettronica) oppure <b>SPID</b></li>
+      <li><b>Codice Fiscale</b> (solo come riferimento)</li>
+      <li>Un contatto (email) per ricevere conferma e istruzioni</li>
+    </ul>
+    <p class="muted">
+      Nota: la vetrina non richiede dati sensibili. L’IPR pubblica solo riferimenti verificabili e tracciabilità.
+    </p>
+  </section>
+
+  <section class="card" id="request">
+    <h2>Richiedi attivazione IPR</h2>
+    <p>Avvia la richiesta con un messaggio standard (template).</p>
+    <p>
+      <a href="mailto:manuelcoletta1@gmail.com?subject=Richiesta%20Attivazione%20IPR%20—%20HERMETICUM%20B.C.E.&body=Nome%20e%20Cognome%3A%0AEmail%3A%0ARiferimento%20CIE%2FSPID%3A%0ACodice%20Fiscale%20(riferimento)%3A%0ANote%3A%0A%0AConfermo%20di%20voler%20attivare%20un%20IPR%20personale%20per%20accesso%20ai%20servizi%20HERMETICUM%20B.C.E.">
+        ✉️ Apri richiesta via email
+      </a>
+    </p>
+    <p class="muted">
+      Se il link email non funziona sul telefono, copia l’indirizzo: <b>manuelcoletta1@gmail.com</b>
+    </p>
+  </section>
