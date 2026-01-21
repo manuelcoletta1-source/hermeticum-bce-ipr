@@ -213,3 +213,23 @@
       Se non hai ancora attivato l’IPR, torna alla sezione <a href="#request">Richiedi attivazione IPR</a>.
     </p>
   </section>
+  <section class="card" id="ipr-status">
+    <h2>Stato IPR</h2>
+
+    <!-- CAMBIA SOLO UNA RIGA QUI SOTTO -->
+    <p>
+      <span style="display:inline-block;border:1px solid #1565c0;border-radius:999px;padding:4px 12px;color:#1565c0;font-weight:600;">
+        IN VERIFICA
+      </span>
+    </p>
+    <!-- OPZIONI:
+         IN VERIFICA  (blu)   → #1565c0
+         IPR ATTIVO   (verde) → #2e7d32
+         SOSPESO      (rosso) → #c62828
+    -->
+
+    <p class="muted">
+      Lo stato indica la fase corrente della tua richiesta IPR.
+      In caso di dubbi, contatta il supporto o verifica le istruzioni inviate via email.
+    </p>
+  </section>
