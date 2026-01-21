@@ -234,3 +234,4 @@
     </p>
   </section>
   <p><a href="./registry/">→ Registro IPR (public)</a></p>
+  <p><a href="./registry/">→ Registro IPR (public)</a></p>
