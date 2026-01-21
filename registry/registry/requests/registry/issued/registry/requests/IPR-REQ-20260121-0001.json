@@ -1,0 +1,15 @@
+{
+  "request_id": "IPR-REQ-20260121-0001",
+  "scope": "personal",
+  "status": "IN_VERIFICA",
+  "contact": {
+    "email": "PROVIDED"
+  },
+  "refs": {
+    "cie_spid": "PROVIDED",
+    "codice_fiscale": "PROVIDED"
+  },
+  "created_at": "2026-01-21T00:00:00Z",
+  "source": "email_gateway",
+  "notes": "Initial IPR request registered."
+}
