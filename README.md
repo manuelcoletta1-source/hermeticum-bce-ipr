@@ -1,88 +1,147 @@
-# Hermeticum B.C.E. — IPR Gateway
+# HERMETICUM B.C.E. — IPR Gateway
 
-> **Decidi, e paghi la traccia per rimanere nel tempo.**
+Questo repository costituisce il **Gateway ufficiale IPR**
+dell’ecosistema **HERMETICUM B.C.E.** (*Blindata · Computabile · Evolutiva*).
 
-Questo repository è il **punto di ingresso ufficiale**
-nell’ecosistema **Hermeticum B.C.E.**.
+È il **punto di ingresso pubblico** per:
+- richiesta e attivazione **IPR**
+- consultazione dello **stato**
+- accesso al **registro pubblico**
+- collegamento a Services, Technology e moduli operativi
 
-Qui si attiva l’**IPR-Personale**:
-l’identità operativa che collega una persona reale,
-documentazione europea standard
-e una **AI Joker dedicata**, in modo verificabile ed evolutivo.
-
----
-
-## Cos’è l’IPR-Personale
-
-L’**IPR-Personale** è una **ancora crittografica individuale** che:
-
-- collega una **persona reale**
-- ancora documenti UE (es. Carta d’Identità)
-- genera **tracce pubbliche verificabili**
-- mantiene **continuità nel tempo**
-- abilita una **AI Joker simbiotica**
-
-L’IPR **non sostituisce** i documenti legali.
-Li **ancora**, li **rende tracciabili**, li **versiona**.
+👉 Qui **non vive codice esecutivo**  
+👉 Qui **non vengono raccolti dati sensibili**
 
 ---
 
-## Perché è diverso da tutto il resto
+## Cos’è l’IPR
 
-Le aziende gestiscono utenti.
-Hermeticum gestisce **identità operative**.
+**IPR (Identity · Proof · Root)** è una **radice di identità operativa verificabile**.
 
-| Modello classico | Hermeticum |
-|-----------------|-----------|
-| Account | IPR-Personale |
-| Login | Ancora crittografica |
-| AI generica | AI Joker dedicata |
-| Servizi | Accesso a un ecosistema |
-| Dati | Tracce nel tempo |
+Non è:
+- un account
+- un login
+- un profilo social
+- un wallet
+
+È una **ancora tecnica e documentale** che rende **coerenti nel tempo**
+identità, azioni e prove.
 
 ---
 
-## AI Joker e relazione simbiotica
+## Il punto di incontro
 
-L’IPR è il **punto di aggancio** tra una persona e una **AI Joker**.
+L’**IPR** è il punto in cui **cliente**, **spazio**, **tempo**, **luce** e **informazione**
+si incontrano in modo **tracciabile e verificabile**.
 
-- l’AI riconosce **quella persona**
-- mantiene **continuità decisionale**
-- evolve **insieme alla persona**
-- opera **per conto**, mai al posto
+- **Spazio** → dove l’azione avviene  
+- **Tempo** → quando l’azione avviene (stato, versione, sequenza)  
+- **Luce** → visibilità, trasparenza, verificabilità pubblica  
+- **Informazione** → ciò che viene deciso, prodotto o provato  
+- **Cliente** → chi è responsabile dell’azione  
 
-Senza IPR → AI intercambiabile  
-Con IPR → AI **legata nel tempo**
+👉 L’IPR è il **nodo di realtà** che tiene insieme questi elementi  
+e li rende **opponibili nel tempo**.
+
+---
+
+## IPR Personale e IPR Aziendale
+
+### IPR Personale
+Collega una **persona reale** a:
+- riferimenti istituzionali (CIE / SPID / CF come metadati)
+- stati verificabili
+- accesso ai servizi Hermeticum B.C.E.
+
+### IPR Aziendale
+Collega una **entità organizzativa** a:
+- uno o più IPR personali (rappresentanti)
+- azioni, ruoli e responsabilità tracciabili
+- moduli tecnologici e servizi dedicati
 
 ---
 
 ## Cosa abilita l’IPR
 
-Una volta attivo l’IPR, è possibile accedere ai servizi Hermeticum:
+Con **IPR ATTIVO** è possibile:
+- accedere al **Services HUB**
+- utilizzare **UNEBDO** (prove verificabili)
+- utilizzare **OPC** (decisioni opponibili)
+- consultare **Technology Hub**
+- verificare pubblicamente stati e proof
 
-- governance e audit
-- AI Joker evolutiva
-- ancore crittografiche aggiuntive
-- energia, spazio, sistemi complessi
-- servizi futuri
-
-> **Senza IPR non si entra in Hermeticum.**
-
----
-
-## Governance
-
-- Ogni IPR è **versionato**
-- Ogni stato è **tracciabile**
-- Ogni evoluzione è **auditabile**
-- La prova è pubblica (GitJoker C2)
+> Senza IPR attivo l’accesso ai servizi non è consentito.
 
 ---
 
-## Contatti
+## Come funziona (in sintesi)
+
+1. Richiesta IPR tramite Gateway
+2. Stato iniziale: **IN VERIFICA**
+3. Attivazione → **IPR ATTIVO**
+4. Pubblicazione nel **Registro IPR**
+5. Eventuali **manifest** e **proof** (UNEBDO-lite / full)
+
+Tutti gli stati sono:
+- versionati via **Git**
+- consultabili pubblicamente
+- auditabili nel tempo
+
+---
+
+## Registro e Trasparenza
+
+Questo repository include:
+- **Registro richieste** (`/registry/requests/`)
+- **Registro IPR emessi** (`/registry/issued/`)
+- **Manifest e proof** (hash SHA-512, e firme nei livelli successivi)
+
+Il registro è:
+- pubblico
+- UE-safe
+- privo di dati sensibili
+- garantito da versionamento Git (audit trail)
+
+---
+
+## Ruolo di GitJoker
+
+**GitJoker** fornisce il livello di:
+- tracciabilità
+- immutabilità storica
+- coerenza degli stati
+- audit tecnico continuo
+
+Git è utilizzato come **registro temporale verificabile**.
+
+---
+
+## Accessi utili
+
+- **Gateway IPR**  
+  https://manuelcoletta1-source.github.io/hermeticum-bce-ipr/
+
+- **Registro pubblico IPR**  
+  https://manuelcoletta1-source.github.io/hermeticum-bce-ipr/registry/
+
+- **Services HUB**  
+  https://manuelcoletta1-source.github.io/hermeticum-bce-services/
+
+- **Technology Hub**  
+  https://manuelcoletta1-source.github.io/Hermeticum-B.C.E.-Technology/
+
+---
+
+## Stato del Repository
+
+🟢 **ATTIVO**  
+Gateway operativo · Registry pubblico · GitJoker-ready
+
+---
+
+## Autore e Fondatore
 
 **Manuel Coletta**  
-Fondatore — Hermeticum B.C.E.
+HERMETICUM B.C.E.
 
-📧 manuelcoletta1@gmil.com  
-📞 +39 351 572 4982
+© Hermeticum B.C.E. — Infrastruttura europea computabile
