@@ -1,13 +1,10 @@
-# Hermeticum B.C.E. — IPR Issued Registry
+# Hermeticum B.C.E. — IPR Registry
 
-Elenco degli IPR ufficialmente emessi (manifest versionati).
+Registro pubblico degli IPR emessi sotto **Hermeticum B.C.E.**  
+Solo manifest e riferimenti verificabili. Nessun dato sensibile.
 
 ---
 
-## IPR emessi
+## Sezioni
 
-### IPR5-ISSUED-20260121-0001
-- Stato: ACTIVE
-- Data: 2026-01-21
-- Manifest:
-  - [IPR5-ISSUED-20260121-0001.manifest.json](./IPR5-ISSUED-20260121-0001.manifest.json)
+- 📌 [Issued](./issued/)
